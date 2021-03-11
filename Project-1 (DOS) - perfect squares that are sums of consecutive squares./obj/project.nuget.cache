@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbulhDBlDxTKKyxgqx3g6EUYCoj9M1U/k5JanLY9ROoqTnfnAkstSHYe+nMBuW6OJ3JklHGlB606NOeDdHxnTA==",
+  "success": true,
+  "projectFilePath": "/Users/vikas/Documents/Project1/Project1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/vikas/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
